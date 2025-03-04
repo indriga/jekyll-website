@@ -5,3 +5,13 @@ date:   2025-03-01 23:04:38 +0000
 categories: jekyll update
 ---
 Hello new site
+
+<!DOCTYPE html>
+<html>
+<body style="background-color:coral;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
