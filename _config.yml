@@ -20,8 +20,7 @@
 
 title: Ingrida Slater
 email: ingrida.slater@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Ingrida Slater is a London based QA with an interest in web developement. I'm building this website myself and share my passion for food, travel and lifestyle.
+description: Ingrida Slater is a London based QA with an interest in web developement. I'm building this website myself and share my passion for food, travel and lifestyle.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: ingridaslater
