@@ -12,7 +12,7 @@
   {%- if site.googleplus_username -%}<li><a href="https://plus.google.com/{{ site.googleplus_username| escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#googleplus' | relative_url }}"></use></svg> <span class="username">{{ site.googleplus_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.tiktok_username -%}
   <li>
-    <a href="https://www.tiktok.com/{{ site.tiktok_username| cgi_escape | escape }}">
+    <a href="https://www.tiktok.com/@{{ site.tiktok_username| cgi_escape | escape }}">
       <svg class="svg-icon">
         <use xlink:href="{{ '/assets/minima-social-icons.svg#tiktok' | relative_url }}"></use>
       </svg>
